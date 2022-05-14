@@ -44,14 +44,3 @@ export default {
   },
 };
 </script>
-
-<style scoped></style>
-<!-- <div class="relative w-fit mb-5">
-    <div class="value">
-      <h1 class="text-cherry text-xl mb-10 font-semibold">{{ this.target }}</h1>
-      <div class="text-cherry text-sm font-bold mb-10 top-10 right-0 absolute">
-        {{ title }}
-      </div>
-    </div>
-    <p class="text-cherry">{{ this.description }}</p>
-  </div> -->
